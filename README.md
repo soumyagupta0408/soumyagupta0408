@@ -64,31 +64,6 @@
 
 ---
 
-## 📚 DSA Roadmap
-
-✅ Arrays
-
-✅ Strings
-
-✅ Hashing
-
-✅ Two Pointers
-
-✅ Prefix Sum
-
-✅ Sliding Window
-
-🔄 Linked Lists
-
-🔄 Binary Search
-
-🔄 Trees
-
-🔄 Graphs
-
-🔄 Dynamic Programming
-
----
 
 ## 📊 GitHub Analytics
 
