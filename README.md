@@ -166,7 +166,7 @@ Add your AWS badge image here:
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:soumyagupta2005@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
